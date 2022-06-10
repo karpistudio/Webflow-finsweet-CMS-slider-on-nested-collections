@@ -9,7 +9,7 @@ This custom code will make Finsweet's CMS slider work on nested collections, e.g
 ```
 2. Add **only** a class `cms-slider` to your slider. Don't apply this class to any other element.
 3. Add **only** a class `cms-list` to your **nested** collection list (the list that is supposed to populate the slider). Once again, don't apply this class to any other element on the page.
-4. Paste this code before body tag of your page
+4. Paste this code before `</body>` tag of your page
 ```javascript
 <script>
 const cmsList = document.getElementsByClassName('cms-list');
