@@ -1,4 +1,4 @@
-# Webflow-finsweet-slider-on-nested-collections
+# Webflow-finsweet-CMS-slider-on-nested-collections
 This custom code will make Finsweet's CMS slider work on nested collections, e.g. on multi-image references.
 
 ## How to implement this solution in Webflow?
