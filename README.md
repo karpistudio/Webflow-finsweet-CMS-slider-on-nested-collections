@@ -25,3 +25,5 @@ If you want to use different class names for your slider and collection list, yo
 You **do not need** to add custom atrributes to slider and collection list in Webflow, the script will do that for you. If you do add them, this solution will still work.
 
 Solution by [Karpi studio](https://www.karpi.studio/ "Karpi studio")
+
+[Working example](https://how-to-webflow-clonable.webflow.io/nested-collection-slider "Working example")
