@@ -23,3 +23,5 @@ cmsSlider[i].setAttribute("fs-cmsslider-element", `slider-${i+2}`);}
 If you want to use different class names for your slider and collection list, you can do that. If you do, don't forget to also change them in the first two lines of before `</body>` tag <script>, to match with your new class names.
 
 You **do not need** to add custom atrributes to slider and collection list in Webflow, the script will do that for you. If you do add them, this solution will still work.
+
+Solution by [Karpi studio](https://www.karpi.studio/ "Karpi studio")
